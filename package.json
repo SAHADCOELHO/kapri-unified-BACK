@@ -2,6 +2,7 @@
   "name": "kapri-working-ads",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
@@ -12,7 +13,6 @@
     "xlsx": "^0.18.5",
     "node-vibrant": "3.2.0"
   },
-  "type": "commonjs",
   "engines": {
     "node": ">=18 <23"
   }
